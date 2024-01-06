@@ -8,6 +8,8 @@ I am not the original author of this addon but was a huge fan so wanted to bring
 
 These changes are also based on the changes here which updated the addon for Wrath, so go checkout this repo for some awesome work! 
 
+*** NOTE: I'm working on a longer term fix for offline checks since that was one thing preventing the addon from working, so features related to offline status may not work as anticipated ***
+
 [Fan Update for Wrath]([https://link-url-here.org](https://github.com/TheGeneticsGuy/Unofficial_SteaSummon))
 
 ## New
