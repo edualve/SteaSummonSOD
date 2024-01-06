@@ -1,5 +1,7 @@
 # SteaSummon
 
+***FAN UPDATE***
+
 WoW Classic addon for warlock raid summoning
 
 ## New
