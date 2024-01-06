@@ -10,8 +10,10 @@ These changes are also based on the changes made by TheGeneticsGuy here which up
 [Fan Update for Wrath by TheGeneticsGuy](https://github.com/TheGeneticsGuy/Unofficial_SteaSummon)
 
 
-*** NOTE: I'm working on a longer term fix for offline checks since that was one thing preventing the addon from working, so features related to offline status may not work as anticipated ***
+***NOTE: I'm working on a longer term fix for offline checks since that was one thing preventing the addon from working, so features related to offline status may not work as anticipated***
 
+## Installing
+Download the release zip and add it to your interface addons folder as normal! 
 ## New
 
 Manage your raid while summoning, relinquish raid lead when done summoning and leave the raid with raid roles in preferred state
