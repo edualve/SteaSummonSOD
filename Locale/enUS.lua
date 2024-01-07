@@ -1,5 +1,5 @@
 --localization file for english/United States
-local L = LibStub("AceLocale-3.0"):NewLocale("SteaSummon", "enUS", true)
+local L = LibStub("AceLocale-3.0"):NewLocale("SteaSummonSOD", "enUS", true)
 
 
 L["Language"] = true

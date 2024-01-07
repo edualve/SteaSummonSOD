@@ -25,7 +25,7 @@
 -- sound: RAID_WARNING = 8959,
 
 local addonName, addonData = ...
-local L = LibStub("AceLocale-3.0"):GetLocale("SteaSummon")
+local L = LibStub("AceLocale-3.0"):GetLocale("SteaSummonSOD")
 
 -- keybind stuff
 BINDING_HEADER_STEASUMMON = "SteaSummon"
