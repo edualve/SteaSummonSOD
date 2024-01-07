@@ -1,5 +1,5 @@
 local addonName, addonData = ...
-local L = LibStub("AceLocale-3.0"):GetLocale("SteaSummon")
+local L = LibStub("AceLocale-3.0"):GetLocale("SteaSummonSOD")
 local icon = LibStub("LibDBIcon-1.0")
 
 local appbutton = {

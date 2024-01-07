@@ -1,7 +1,7 @@
-## Interface: 11404
-## Title: SteaSummon
+## Interface: 11500
+## Title: SteaSummonSOD
 ## Notes: One button summoning, shared summoning list...
-## Author: Stea
+## Author: Edualve
 ## Version: 1.07
 ## SavedVariablesPerCharacter: SteaSummonSave, SteaDEBUG, SteaSummonSaveLDB
 ## x-SteaSummon-Protocol-version: 0.64
